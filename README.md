@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallahnasserr&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahnasserr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallahnasserr" alt="abdallahnasserr" /></a> </p>
 
 - 🌱 I’m currently learning **SQL,Python,Power BI**
 
-👨‍💻 All of my projects are available at [Abdallah's Analytics Hub](https://abdallahnasser.netlify.app).
+- 👨‍💻 All of my projects are available at [Abdallah's Analytics Hub](https://abdallahnasser.netlify.app).
 
 - 📝 I regularly write articles on [Medium Profile](https://medium.com/@sabelalhedaya5)
 
