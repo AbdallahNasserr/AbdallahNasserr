@@ -9,12 +9,21 @@
 
 - 👨‍💻 All of my projects are available at [abdallahnasser.netlify.com](abdallahnasser.netlify.com)
 
+- 📝 I regularly write articles on [https://medium.com/@sabelalhedaya5](https://medium.com/@sabelalhedaya5)
+
+- 💬 Ask me about **SQL, Python, Power BI, Tableau, Excel, Looker Studio**
+
 - 📫 How to reach me **iamabdallahnasser@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FapXf-nE5o8WuMGzANpkgS1qo2JqhniP/view?usp=drive_link](https://drive.google.com/file/d/1FapXf-nE5o8WuMGzANpkgS1qo2JqhniP/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdallahanalyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdallahanalyst/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdallahanalyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdallahanalyst/" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdallahprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdallahprogrammer" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100087204513961&locale=ar_AR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallah nasser" height="30" width="40" /></a>
+<a href="https://medium.com/@sabelalhedaya5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sabelalhedaya5" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AbdallahAnalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdallah nasser - data analysis" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdallahprogram1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdallahprogram1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abdallah_nasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdallah_nasser" height="30" width="40" /></a>
 </p>
@@ -25,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahnasserr&show_icons=true&locale=en&layout=compact" alt="abdallahnasserr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallahnasserr&show_icons=true&locale=en" alt="abdallahnasserr" /></p>
+
+
