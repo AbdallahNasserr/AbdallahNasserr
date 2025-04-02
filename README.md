@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **SQL,Python,Power BI**
 
-- 👨‍💻 All of my projects are available at [abdallahnasser.netlify.com](abdallahnasser.netlify.com)
+👨‍💻 All of my projects are available at [Abdallah's Analytics Hub](https://abdallahnasser.netlify.app).
 
-- 📝 I regularly write articles on [https://medium.com/@sabelalhedaya5](https://medium.com/@sabelalhedaya5)
+- 📝 I regularly write articles on [Medium Profile](https://medium.com/@sabelalhedaya5)
 
 - 💬 Ask me about **SQL, Python, Power BI, Tableau, Excel, Looker Studio**
 
