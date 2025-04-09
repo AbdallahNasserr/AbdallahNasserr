@@ -60,7 +60,6 @@
 
 ### 🔧 Tools
 
-#### 🧠 IDEs & Development Environments
 
 <a href="https://github.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
